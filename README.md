@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yadnesh</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🔭 I’m currently working on [Customer shopping dataset](https://yadneshbapat.github.io/project3.html)
+- 🌱 I’m currently working on personal projects that use **SQL, Python, Power BI, Microsoft Excel**
 
-- 🌱 I’m currently learning **Power BI, Advanced Excel**
+- 👨‍💻 My best projects are available at [https://yadneshbapat.github.io/](https://yadneshbapat.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://yadneshbapat.github.io/](https://yadneshbapat.github.io/)
-
-- 📫 How to reach me **yadneshbapat11@gmail.com**
-
-- 📄 Know about my experiences [[resume link here]]([resume link here])
+- 📫 Reach me at: **yadneshbapat11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
